@@ -1,5 +1,4 @@
-//Author Rituraj Gupta
-// Convert distance from miles to kilometer
+
 #include <stdio.h> //Standar library for printf, scanf defination
 #define kms_per_mile 1.609 //Conversion constant
 int main() {
