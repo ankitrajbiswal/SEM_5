@@ -1,10 +1,4 @@
-/*
-Prgrammer: Rituraj Gupta
-Date completed: 02/11/2021
-Instructor Dr. T.N.Pandey
-Class 5th CSE,Sec-L
-Registration Number: 1941012660
-*/
+
 #include <stdio.h>
 #include <math.h>
 float calculate(float ammount_borrowed,float monthly_int_rate,float total_no_payments){
