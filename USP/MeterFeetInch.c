@@ -1,7 +1,4 @@
-/*Rituraj Gupta
-1941012660
-CSE-l
-*/
+
 #include <stdio.h>
 int main(){
 	//intilsinzing the variable
