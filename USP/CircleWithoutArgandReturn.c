@@ -1,10 +1,4 @@
-/*
-Prgrammer: Rituraj Gupta
-Date completed: 30/10/2021
-Instructor Dr. T.N.Pandey
-Class 5th CSE,Sec-L
-Registration Number: 1941012660
-*/
+
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14159
