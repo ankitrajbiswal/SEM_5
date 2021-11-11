@@ -1,9 +1,4 @@
-/*
-Prgrammer: Rituraj Gupta
-Date completed: 26/10/2021
-Instructor Dr. T.N.Pandey
-Registration Number: 1941012660
-*/
+
 #include <stdio.h>
 #define gravity 9.80
 #define efficiency 0.9
