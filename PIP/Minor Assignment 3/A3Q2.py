@@ -69,6 +69,7 @@ for i in range(1, N+1):
             total += 1
 print(total)
 
+#i
 number = 72958476
 a, b = 0, 0
 while (number > 0):
