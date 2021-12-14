@@ -9,3 +9,5 @@ def funclist(n):
 def main():
   n=int(input("Enter a Number : "))
   print(funclist(n))
+if__name__=='__main__';
+  main()
