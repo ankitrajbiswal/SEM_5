@@ -30,7 +30,7 @@ class Student:
             self.grade='E'
     def __str__(self):
         return 'Roll No.: '+str(self.rollNumber)+'\nName: '+self.name+'\nMarksList: '+str(self.marksList)+'\nStream: '+self.stream+'\nPercenrage: '+str(self.percentange)+'\nGrade: '+self.grade+'\nDivision: '+self.division
-s=Student(2660,"Rituraj",[],"CSE",0,'E',"1st")
+s=Student(2238,"Ankit Raj Biswal",[],"CSE",0,'E',"1st")
 print('-------------------------------------------\n',s,'\n-------------------------------------------\n')
 s.setMarks()
 print('-------------------------------------------\n',s,'\n-------------------------------------------\n')
