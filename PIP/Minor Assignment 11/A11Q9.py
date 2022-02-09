@@ -31,8 +31,8 @@ class Current(Account):
     def get(self):
         print(self.name,self.accnum,self.type,self.depo,self.mindepo)
     
-ob1=Saving("Rituraj",12345,"Saving",500,500)
+ob1=Saving("Ankit Raj",12345,"Saving",500,500)
 ob1.get()
 print(ob1.intreset(5))
-ob1=Current("Ritu",67890,"Current",500,500)
+ob1=Current("Ankit",67890,"Current",500,500)
 ob1.get()
